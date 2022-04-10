@@ -8,6 +8,7 @@
 <h3>Usage</h3>
 <h4>Extract the appropriate archive to a safe folder and run TimeOut.exe</h4>
 <h4>Note that the application will not work without the icon file</h4>
+<h4>If you forget the app password, simply delete the "data" file next to the executable and restart your computer</h4>
 <hr><br>
 <h3>To do</h3>
 <ul>
@@ -16,3 +17,5 @@
   <li>Splitting the code into smaller modules</li>
   <li>Potential bugs</li>
 </ul>
+<hr><br>
+<h3>You are free to use and edit the code, but do not distribute it to other sites</h3>
