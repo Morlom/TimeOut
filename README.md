@@ -1,7 +1,7 @@
 # TimeOut
-<h3>App to restrict user's time on the PC</h3>
+<h3>App to restrict user's time on PC</h3>
 <br>
-<h4>An application written in Python to limit computer usage time for the user. I couldn't find any working application that limits active time instead of predefined operating hours</h4>
+<h4>An app written in Python to limit computer usage time for the user. I couldn't find any working app that limits active time instead of predefined operating hours. That's why I wrote it</h4>
 <br>
 <h4>This is also my first big app and also my first GUI app, so there may be some bugs</h4>
 <hr><br>
