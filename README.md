@@ -15,6 +15,7 @@
   <li>Changing language in the app settings + support for other languages</li>
   <li>Reduce RAM consumption</li>
   <li>Splitting the code into smaller modules</li>
+  <li>Linux version</li>
   <li>Potential bugs</li>
 </ul>
 <hr><br>
