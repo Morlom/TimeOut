@@ -20,3 +20,5 @@
 </ul>
 <hr><br>
 <h3>You are free to use and edit the code, but do not distribute it to other sites</h3>
+<hr><br>
+<h4>Szymon Kowalczyk - Liga Zawodowców 2022</h4>
